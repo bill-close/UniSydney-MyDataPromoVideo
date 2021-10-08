@@ -3,6 +3,6 @@ This is a promotional video of the Cryo-EM sample preparation, data collection &
 
 https://youtu.be/ha0Atp01f5M
 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://youtu.be/ha0Atp01f5M "Everything Is AWESOME")
 
 
