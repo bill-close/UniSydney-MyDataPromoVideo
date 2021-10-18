@@ -4,5 +4,5 @@ This is a promotional video of the Cryo-EM sample preparation, data collection &
 
 Please email me if you would like to see more
 
-# [![USyd Video](https://i9.ytimg.com/vi/ha0Atp01f5M/mq1.jpg?sqp=CLiJs4sG&rs=AOn4CLDOOAmktfX9pupRkl920WSiQFmoCQ)](https://youtu.be/ha0Atp01f5M "Everything Is AWESOME")
+
 
